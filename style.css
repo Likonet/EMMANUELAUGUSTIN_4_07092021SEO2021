@@ -6,7 +6,12 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
+.title1,
+.title2,
+.quotez
+{
+    font-size: 22px;
+}
 a,
 button {
     transition: all .3s ease-in-out;
